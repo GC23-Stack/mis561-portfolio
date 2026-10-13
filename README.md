@@ -15,3 +15,16 @@ Published Tableau Story: https://public.tableau.com/views/PowerBi-DataCampTraini
 
 Part 2:
 In Flex 4, I calculated the net contribution for each account tier after subtracting its cost to serve. In Power BI, I would build this as a measure because it should recalculate whenever Anita or Marcus filters the report by tier, customer, or another category. If the calculation lives in the model instead of inside the workbook, they can reuse it across visuals and always see an updated result without manually changing formulas.
+
+
+Data Visualization in Power BI
+Completed: October 12, 2026  
+Published Tableau Story: https://public.tableau.com/views/PowerBi-DataCampTrainingCertificateAddingDAX/PowerBI3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+Applied Deliverable
+
+Sarah, I am ready to contribute to business intelligence work at Southwest because I have used data to turn a business problem into a supported recommendation. In Flex 4, I created the Inside Sales Service Cost view, which showed that the tier cost $143,600 to support 359 accounts while producing a net contribution loss of $16,821.86. I would rebuild this view in Power BI using conditional formatting so the loss appears in red while profitable tiers remain neutral. This would help Marcus identify the problem tier immediately. I also created a Net Contribution calculation by subtracting cost to serve from profit. In Power BI, I would build it as a DAX measure so Anita or Marcus could filter by tier or account and receive updated results automatically.
+
+I would use Excel for data cleaning, quick calculations, and one-time analyses. I would use Tableau for polished public visualizations and visual stories. I would use Power BI for internal dashboards requiring reusable measures, connected data, filtering, and regular updates. My main gap is that I have not published and maintained a Power BI report that employees depend on. I would close it by publishing a practice report to Power BI Service, testing permissions and scheduled refreshes, and asking users to test it before treating it as a production report.
+
+AI acknowledgment: ChatGPT was used to help organize and edit this response while preserving my project evidence and conclusions.
