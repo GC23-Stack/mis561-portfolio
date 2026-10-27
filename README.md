@@ -30,3 +30,5 @@ I would use Excel for data cleaning, quick calculations, and one-time analyses. 
 AI acknowledgment: ChatGPT was used to help organize and edit this response while preserving my project evidence and conclusions.
 
 Card Portfolio Review – Contactless Readiness, Which cards should Bear Down Bank prioritize for replacement based on their remaining time until expiration?, [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17924448292580/DesignJustification?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) , and If I completed this project again, I would add replacement-cost data so the bank could compare the urgency of each replacement group with its estimated financial impact.
+
+Card Growth Analysis – Wildcat Rewards Offer:** Which customer group should receive Bear Down Bank’s first Wildcat Rewards pilot mailing? [View the published Tableau workbook](https://public.tableau.com/shared/PSPFHDF5Y?:display_count=n&:origin=viz_share_link). If I completed this project again, I would compare more customer segments before choosing the final pilot group.
