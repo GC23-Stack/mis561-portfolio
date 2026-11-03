@@ -32,3 +32,19 @@ AI acknowledgment: ChatGPT was used to help organize and edit this response whil
 Card Portfolio Review – Contactless Readiness, Which cards should Bear Down Bank prioritize for replacement based on their remaining time until expiration?, [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17924448292580/DesignJustification?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) , and If I completed this project again, I would add replacement-cost data so the bank could compare the urgency of each replacement group with its estimated financial impact.
 
 Card Growth Analysis – Wildcat Rewards Offer:** Which customer group should receive Bear Down Bank’s first Wildcat Rewards pilot mailing? [View the published Tableau workbook](https://public.tableau.com/shared/PSPFHDF5Y?:display_count=n&:origin=viz_share_link). If I completed this project again, I would compare more customer segments before choosing the final pilot group.
+
+**Nov 2, 2026 · Data Storytelling with Adobe Express**
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: launch the Wildcat Rewards Card pilot in Texas and Colorado, where 81 of 182 customers qualify at a 44.51% eligibility rate, 2.19× the nationwide rate.
+
+**[Work sample (PDF)](https://github.com/GC23-Stack/REPOSITORY-NAME/blob/main/adobe/chavez-data-storytelling.pdf)**
+
+**Design choice:** I used a benchmarked bar chart because Jordan needs to compare Texas and Colorado directly with the 20.35% nationwide eligibility rate while also seeing the number of qualified customers. I considered using a state map, but rejected it because geographic shapes would make the rate comparison less precise. I removed the generation and FICO breakdowns from the exploratory dashboard so the final page stays focused on the pilot-location decision.
+
+**Training completed:** Nov 2, 2026
+
+**Generative AI disclosure:** OpenAI. (2026). *ChatGPT (GPT-5)* [Large language model]. https://chatgpt.com/. ChatGPT was used on November 2, 2026, to review the design and develop the Adobe Express correction prompt. Full ChatGPT prompt: “Make me a prompt to fix this issue.”
+
+Adobe. (2026). *Adobe Express (web version)* [Generative design tool]. https://www.adobe.com/express/. Adobe Express was used on November 2, 2026, to generate and revise the infographic layout.
+
+**Full Adobe Express prompt:** “Redesign the existing page as a professional one-page US Letter portrait infographic (8.5 × 11 inches) for CG Analytics. Remove ‘Contact Us,’ ‘Join Now,’ ‘Watch More,’ the arrow, decorative orange blocks, ‘2029,’ and the Tableau ‘Learn about the design’ button. Make the data visualization large, sharp, and easy to read. Headline: ‘Launch the Wildcat Rewards Pilot in Texas and Colorado.’ Subheadline: ‘81 of 182 customers qualify at 44.51%—2.19× the nationwide rate.’ Show three clearly labeled horizontal bars: Colorado 56.52% (13 of 23), Texas 42.77% (68 of 159), and Nationwide 20.35% (407 of 2,000). Add one short callout: ‘Texas offers scale; Colorado leads in qualification rate.’ Place the CG Analytics wordmark at the top. Use a white background, navy #17324D, teal #1F6F78, and light gray #F4F6F8 with accessible contrast. Do not invent or change data. Add this exact footer: ‘Prepared for Data Visualization Course, University of Arizona. Course scenario using a provided dataset.’”****
