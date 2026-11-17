@@ -97,3 +97,15 @@ Adobe Express was used on November 2, 2026, to generate and revise the infograph
 > Place the CG Analytics wordmark at the top. Use a white background, navy #17324D, teal #1F6F78, and light gray #F4F6F8 with accessible contrast. Do not invent or change data.
 >
 > Add this exact footer: “Prepared for Data Visualization Course, University of Arizona. Course scenario using a provided dataset.”****
+
+**## November 16, 2026 · Product Pitch with Generative AI in Adobe Express
+
+Pitch to Jordan Ellis, Vice President of Card Growth at Bear Down Bank: approve a six-week Wildcat Rewards pilot in Texas and Colorado for 81 qualified customers.
+
+[Pitch deck (PDF)](https://github.com/GC23-Stack/mis561-portfolio/blob/main/adobe/chavez-product-pitch.pdf) · [Adobe Express presentation](https://new.express.adobe.com/publishedV2/urn:aaid:sc:US:d914a120-ae76-5911-8aaa-9eca3d5febdc?promoid=Y69SGM5H&sdid=C4SZ2FYJ&mv=other)
+
+**Toughest objection:** “Why not start in Texas alone?” Slide 6 explains that Texas provides the larger test audience, while Colorado provides a higher-concentration comparison. Including both states will produce stronger evidence for deciding whether Bear Down Bank should expand the offer.
+
+**AI use:** ChatGPT helped organize the pitch, refine the writing, and review the slide sequence. Adobe Express was used to design and revise the presentation. I verified the calculations and recommendation against my Tableau analysis.
+
+**Training completed:** November 16, 2026**
