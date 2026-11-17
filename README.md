@@ -25,7 +25,7 @@ This portfolio contains projects completed for **MIS 561: Data Visualization**. 
 ### Card Growth Analysis: Wildcat Rewards Offer
 
 - **Business question:** Which customer group should receive Bear Down Bank’s first Wildcat Rewards pilot mailing?
-- **Tableau workbook:** [View the published workbook](https://public.tableau.com/shared/PSPFHDF5Y?:display_count=n&:origin=viz_share_link)
+- **Tableau workbook:** [View the published workbook](https://public.tableau.com/app/profile/gibran.chavez/viz/CardGrowthAnalysisWildcatRewardsOffer_17930709762210/ExploratoryDashboard#1)
 - **What I would improve:** If I completed this project again, I would compare additional customer segments before selecting the final pilot group.
 
 ## Power BI Training and Applied Work
